@@ -1,6 +1,10 @@
-# 💫 About Me:
-i m currently working on ml and deep learning projects. i am also working on financial analysis models. i have also doen web dev using react. <br>i currently am pursuing my btech in cse iot<br>i am a project manager in my group and a team leader.<br>i exel in languages as python java and c++
+ About Me:
 
+Results-driven IT Specialist and Full Stack Developer pursuing B.Tech in Information Technology at IEM Kolkata, with hands-on
+expertise in cloud-based systems, machine learning, geolocation applications, and agile project delivery. Proven track record of
+architecting and deploying scalable, production-grade web solutions, leading cross-functional teams, and driving 30%+ operational
+efficiency improvements. Experienced in Python, React.js, Firebase, REST APIs, NLP/ML pipelines, and cybersecurity
+fundamentals.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pseudo_origano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arjak-ghosh-625584288) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arjak Ghosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:topsesayarjak2002@gmail.com) 
